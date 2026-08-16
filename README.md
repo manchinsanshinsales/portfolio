@@ -1,7 +1,4 @@
 # Who I AM
-<p align="center">
-  <img src="assets/header.jpg" alt="Makoto Tozuka Header" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manchinsanshinsales&label=PROFILE%20VIEWS&color=00D2FF&style=for-the-badge" alt="views" />
