@@ -13,7 +13,6 @@
 </blockquote>
 
 <p align="center">
-  <a href="https://manchinsanshinsales.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO_SITE-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="mailto:makoto.insidesales@gmail.com"><img src="https://img.shields.io/badge/CONTACT_EMAIL-9B51E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
