@@ -20,10 +20,11 @@
 ---
 
 ### 💬 About Me
-Google Cloudの営業をしながら、自らコードを書いてデモアプリを作り、営業現場で実演するスタイルで仕事をしているテクニカルセールスです。
-Google Cloud認定資格7つ資格を持っていますが、ただ仕様を説明するだけの営業ではありません。ReplitやPython、Gemini APIを使い現場の課題を解決するプロトタイプを自分の手で構築しています。
-たとえば、カフェ英会話コミュニティの運営では、手動で行われていた予約やレベル分けの業務を自動化するアプリをReplit上で自作し、そのまま日常の運営DXに役立てています。
-「説明するより、作って見せる」をモットーに、技術とビジネスの境界線を減らす取り組みを続けています。
+Google Cloud Technical Sales＠　Global BPO Firm | 7x Google Cloud Certified
+Run the product live in front of customers — a working demo answers questions a deck never gets to
+Built the app that runs booking and level-sorting for the café English community I organize
+Lend a hand with AI and IT at my family's small business — small scale, real constraints, no budget for guesswork
+"Show it running. Don't just explain it."
 
 ---
 
