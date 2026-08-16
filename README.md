@@ -1,4 +1,4 @@
-# portfolio
+# Who I AM
 <p align="center">
   <img src="assets/header.jpg" alt="Makoto Tozuka Header" width="100%" />
 </p>
@@ -19,7 +19,7 @@
 ---
 
 ### 💬 About Me
-Google Cloud Technical Sales＠　Global BPO Firm | 7x Google Cloud Certified
+Google Cloud Technical Sales＠Global BPO Firm | 7x Google Cloud Certified
 Run the product live in front of customers — a working demo answers questions a deck never gets to
 Built the app that runs booking and level-sorting for the café English community I organize
 Lend a hand with AI and IT at my family's small business — small scale, real constraints, no budget for guesswork
