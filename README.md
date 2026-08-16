@@ -27,7 +27,7 @@ Built the app that runs booking and level-sorting for the café English communit
 Lend a hand with AI and IT at my family's small business — small scale, real constraints, no budget for guesswork
 "Show it running. Don't just explain it."
 
-Google Cloudのアカウントマネージじゃーをしながら、自らコードを書いてデモアプリを作り、営業現場で実演するスタイルで仕事をしているテクニカルセールスです。
+Google Cloudのアカウントマネージジャーをしながら、自らコードを書いてデモアプリを作り、営業現場で実演するスタイルで仕事をしているテクニカルセールスです。
 Google Cloud認定資格7冠を持っていますが、ただ仕様を説明するだけの営業ではありません。Antigravity、Gemini APIを使い、現場の課題を解決するデモを見せ、営業活動をリードしています。
 また、主催に関わっている「カフェ英会話コミュニティ」の運営では、手動で行われていた予約やレベル分けの業務を自動化するアプリをReplit上で自作し、そのまま日常のスタッフ運営DXに役立てています。
 「説明するより、作って見せる」をモットーに、技術とビジネスの境界線を減らす取り組みを続けています。
